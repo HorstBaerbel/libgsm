@@ -1,5 +1,5 @@
 # Copyright 1992-1996 by Jutta Degener and Carsten Bormann, Technische
-# Universitaet Berlin.  See the accompanying file "COPYRIGHT" for
+# Universitaet Berlin.  See the accompanying file "LICENSE" for
 # details.  THERE IS ABSOLUTELY NO WARRANTY FOR THIS SOFTWARE.
 
 # Machine- or installation dependent flags you should configure to port
